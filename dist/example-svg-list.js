@@ -1,0 +1,5 @@
+export default [
+  `<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3800_989)"><circle cx="32" cy="32" r="32" fill="#000AFF"/></g><defs><clipPath id="clip0_3800_989"><rect width="64" height="64" fill="white"/></clipPath></defs></svg>`,
+  `<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3800_987)"><circle cx="32" cy="32" r="32" fill="#00FF1A"/></g><defs><clipPath id="clip0_3800_987"><rect width="64" height="64" fill="white"/></clipPath></defs></svg>`,
+  `<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3800_985)"><circle cx="32" cy="32" r="32" fill="#FF0000"/></g><defs><clipPath id="clip0_3800_985"><rect width="64" height="64" fill="white"/></clipPath></defs></svg>`,
+];

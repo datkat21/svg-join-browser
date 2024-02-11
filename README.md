@@ -1,3 +1,8 @@
+# ⚠ Warning ⚠
+
+This tool does not do what I originally thought it did.. I thought this would combine multiple SVG files and overlay them on top of each other (which it doesn't), however I've done the work to typescriptify and build this in case you want this tool in browser JS. This tool actually just bundles SVG files into basically a symbol map so that you can use them within your website by referencing the `#id`.
+
+
 # SVG-Join
 
 There are webpack or gulp solutions for combining SVG. But I could not find simple CLI version. Here it is. It just join SVG files in symbol collection with CSS description.
